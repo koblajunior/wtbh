@@ -1,3 +1,3 @@
-# Write to be heard
+# Learn to Write and Publish
 
-This is a website for a learning management system
+This is a learning management platform on how to write and publish
